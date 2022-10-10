@@ -1,0 +1,58 @@
+.destacadas__title{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 116.7%;
+    text-align: center;
+    color: #5F585A;
+}
+
+.destacadas__text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #858585;
+}
+
+.destacadas__list {
+    display: flex;
+    flex-direction: row;
+}
+
+.destacadas__list__item{
+    margin-left: 5%;
+}
+
+.destacadas__list__title{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #5F585A;
+    text-align: left;
+}
+
+.destacadas__list__text{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18.75px;
+    color: #5F585A;
+    text-align: left;
+}
+
+.destacadas__list__price{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 33px;
+    color: #081382;
+    text-align: left;
+}
