@@ -1,0 +1,78 @@
+.servicios{
+    background-color: #F8F9FB;
+    padding-top: 5%;
+}
+
+.servicios__title{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 116.7%;
+    text-align: center;
+    color: #5F585A;
+    background-color: #F8F9FB;
+}
+
+.servicios__list{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #F8F9FB;
+}
+
+.servicios__list__title{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    letter-spacing: 0.2em;
+    color: #081382;
+    
+}
+
+.servicios__list__image{
+    height: 260px;
+}
+
+.servicios__list__subtitle{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #081382;
+}
+
+.servicios__list__text{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    margin-left: 25%;
+    color: #5F585A;
+    width: 50%;
+    align-self: center;
+}
+
+.servicios__list__button{
+    background: #081382;
+    box-shadow: 0px 7px 17px rgba(9, 87, 203, 0.32);
+    border-radius: 25px;
+    width: 209px;
+    height: 60px;
+}
+
+.servicios__list__button__text{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    text-align: center;
+    color: #FFFFFF;
+
+}

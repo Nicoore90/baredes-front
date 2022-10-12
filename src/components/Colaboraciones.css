@@ -1,0 +1,28 @@
+.Colaboraciones__title{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 116.7%;
+    color: #5F585A;
+}
+
+.colaboraciones__container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.colaboraciones__image{
+    width: 30%;
+}
+
+.colaboraciones__aliado{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 26px;
+    line-height: 30px;
+    text-align: center;
+    color: #27292D;
+}
